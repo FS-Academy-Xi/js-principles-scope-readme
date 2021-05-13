@@ -20,7 +20,7 @@ how scope works will lead to pain. Just ask this guy:
 
 ## Let's talk about Slack, baby
 
-As the newest engineer at Flatbook, you have access to the company's Slack team.
+As the newest engineer at Axibook, you have access to the company's Slack team.
 The Slack team is organized into channels, some of which are company-wide, such
 as the main `#general` channel, and some of which are used by individual teams
 for intra-team communication, such as `#education`, `#engineering`, and
